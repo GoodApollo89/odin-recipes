@@ -1,0 +1,1 @@
+This is an example of a website created for The Odin Project. The website has links to recipes which contain pictures, ingredients and steps on how to create them.
