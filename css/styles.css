@@ -1,7 +1,8 @@
 body {
-    background-color: #1683cc3f;
-    border-color: #000000;  
+    background-color: hsl(40, 69%, 95%);
     font-family: verdana, Tahoma, Helvetica;
+    margin: auto;
+    border: 10px solid white;
 }
 
 .page-header,
@@ -14,9 +15,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    height: ;
-    border: 20px solid white;
+    width: ;
 }
 
 
@@ -29,4 +28,8 @@ img {
 .ingredients-list {
     text-align: left;
     list-style-type: square;
+}
+
+.ol-bold {
+    
 }
