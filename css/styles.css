@@ -1,8 +1,13 @@
-body {
+body,
+.index-body {
     background-color: hsl(40, 69%, 95%);
     font-family: verdana, Tahoma, Helvetica;
     margin: auto;
     border: 10px solid white;
+}
+
+.index-body {
+    padding-bottom: 82px;
 }
 
 .page-header,
