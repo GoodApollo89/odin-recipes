@@ -1,19 +1,37 @@
-body,
-.index-body {
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+body {
     background-color: hsl(40, 69%, 95%);
     font-family: verdana, Tahoma, Helvetica;
-    margin: auto;
-    border: 10px solid white;
+    margin: ;
+    border: 20px solid white;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
 }
 
 .index-body {
-    padding-bottom: 82px;
+    padding: 175px;
 }
 
 .page-header,
-.sub-headers {
+.sub-headers,
+.links {
     color: rgb(166, 98, 168);
     text-align: center;
+    padding: 30px;
+}
+
+.page-header {
+    padding-bottom: 0px;
+}
+
+.page-header.hotpot-padding {
+    padding-top: 0px;
 }
 
 img {
@@ -21,20 +39,17 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: ;
+    padding-top: 30px;
 }
-
-
 
 .dotless-list {
     list-style-type: none;
     text-align: center;
 }
 
+
 .ingredients-list {
     text-align: left;
     list-style-type: square;
 }
 
-.directions-list {
-    
-}
