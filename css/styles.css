@@ -7,10 +7,8 @@ body {
     background-color: hsl(40, 69%, 95%);
     font-family: verdana, Tahoma, Helvetica;
     margin-bottom: ;
-    border: 20px solid white;
+    border: 20px dashed white;
     text-align: center;
-    
-    
 }
 
 .index-body {
@@ -53,6 +51,7 @@ img {
     display: inline-block;
     margin: 20px;
     margin-top: 50px;
+    margin-bottom: 345px;
 }
 
 a {
